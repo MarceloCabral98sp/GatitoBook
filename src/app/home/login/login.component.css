@@ -1,0 +1,7 @@
+.form{
+    display: flex;
+    flex-direction: column;
+}
+.form-group{
+    margin: 0 0 16px 0;
+}
